@@ -39,7 +39,8 @@
 -------------------------------------------------------------------------------
 How to send your files :
 
-All your exercices must be in your epitech git repository : # rush_py_2017
+All your exercices must be in your epitech git repository :
+# rush_py_2017
     **command** : *blih -u $YOUR_LOGIN repository create rush_py_2017*
 
 All your exercices must have the following name : ex**XX**/**$FILE_NAME**
