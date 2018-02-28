@@ -45,7 +45,6 @@ All your exercices must be in your epitech git repository :
 
 All your exercices must have the following name : ex**XX**/**$FILE_NAME**
 
-//TODO determinate who use the mouli during the rush
 You have to give the read rights on your repository to the appropriate tek3
 (we will tell you wich of those host the automatized test for you during the rush) :
 ### vigand_q chicha_j bel_m gillou_g
