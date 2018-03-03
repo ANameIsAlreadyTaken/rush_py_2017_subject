@@ -48,6 +48,11 @@
 Subject:
     You have to write a program that take the content of a csv file given as parameter.
     You have to dump the equivalent of the csv file as a yml file (same name finishing by .yml) and json file (finishing by .json). While dumping you have to create for each keys, a list of values.
+    
+Usage:
+    ./ex07.py toto
+        > You'll have to open toto.csv
+        > You'll have to dump into toto.json and toto.yml
 
 Hint:
     csv
