@@ -53,7 +53,7 @@ Subject:
 
 FILENAME : ex05.py
 
-    Exemple:
+    Example (Do not display additional tabs or spaces before the result):
         dico> mykey:myvalue
             mykey:myvalue
         dico> sifi:swagg

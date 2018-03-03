@@ -56,7 +56,7 @@ Subject:
 
 FILENAME : bistro.py
 
-Basic Example :
+Basic Example (Do not display additional tabs or spaces before the result):
     ./bistro.py
         bistro> 1+1
 	    2
