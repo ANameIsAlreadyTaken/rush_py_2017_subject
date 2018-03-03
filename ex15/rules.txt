@@ -46,7 +46,7 @@
 
 
 Subject:
-    Your program must be 23 chars long at max.
+    Your program must be 42 chars long at max.
     You have to print:
 
 
