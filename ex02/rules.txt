@@ -51,7 +51,7 @@ Subject:
 
 Example:
     ./ex02 lil lol
-        ['lil', 'lol']
+        ['lol', 'lil']
 
 FILENAME : ex02.py
 
