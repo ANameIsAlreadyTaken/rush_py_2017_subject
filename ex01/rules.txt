@@ -48,6 +48,6 @@
 Subject:
 
     Create a simple program which will print "hello world" (without the 
-quotes) on the standart output.
+quotes) on the standard output.
 
 FILENAME : hello_world.py
