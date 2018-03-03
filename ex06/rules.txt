@@ -67,6 +67,6 @@ je suis trié
 >
 
 Hint:
-keywords, set
+python's keywords, set
 
 FILENAME : ex06.py
